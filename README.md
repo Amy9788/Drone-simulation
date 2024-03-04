@@ -7,7 +7,7 @@ Team Member Names and x500s:
 	Remy Schultz (schu4346)
 
 Demo:
-	https://github.com/Amy9788/Drone-simulation/assets/121738629/72e12d0f-4797-4452-9553-73a7048f0484
+https://github.com/Amy9788/Drone-simulation/assets/121738629/72e12d0f-4797-4452-9553-73a7048f0484
 
 
 	
