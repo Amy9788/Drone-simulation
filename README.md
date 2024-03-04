@@ -7,9 +7,12 @@ Amy Aponchik (aponc005),
 Remy Schultz (schu4346)
 
 Demo:
-	<video width="320" height="240" controls>
-	  <source src="drone-demo_compressed.mp4" type="video/mp4">
-	</video>
+	
+
+https://github.com/Amy9788/Drone-simulation/assets/121738629/72e12d0f-4797-4452-9553-73a7048f0484
+
+
+	
 
 
 DockerHub: 
