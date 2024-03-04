@@ -1,22 +1,20 @@
-# Team-010-37-homework4
+# Drone Simulation System
 
 Team Member Names and x500s:
-Vahini Penmatsa (penma013),
-Roshan Gokul (gokul010),
-Amy Aponchik (aponc005),
-Remy Schultz (schu4346)
+	Vahini Penmatsa (penma013),
+	Roshan Gokul (gokul010),
+	Amy Aponchik (aponc005),
+	Remy Schultz (schu4346)
 
 Demo:
-	
-
-https://github.com/Amy9788/Drone-simulation/assets/121738629/72e12d0f-4797-4452-9553-73a7048f0484
+	https://github.com/Amy9788/Drone-simulation/assets/121738629/72e12d0f-4797-4452-9553-73a7048f0484
 
 
 	
 
 
 DockerHub: 
-https://hub.docker.com/repository/docker/roshangokul/drone_sim/general
+	https://hub.docker.com/repository/docker/roshangokul/drone_sim/general
 
 Project overview:
 What is the project about and what does the simulation do specifically: 
