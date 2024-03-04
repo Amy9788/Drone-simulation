@@ -6,6 +6,11 @@ Roshan Gokul (gokul010),
 Amy Aponchik (aponc005),
 Remy Schultz (schu4346)
 
+Demo:
+	<video width="320" height="240" controls>
+	  <source src="drone-demo_compressed.mp4" type="video/mp4">
+	</video>
+
 
 DockerHub: 
 https://hub.docker.com/repository/docker/roshangokul/drone_sim/general
